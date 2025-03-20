@@ -1,4 +1,8 @@
+---
 
+### 📌 **README.md**  
+
+```markdown
 # 🎵 Music Reactive Bars with Video Background 🎬  
 
 > **An immersive music visualization experience with real-time audio-reactive bars and video background!**  
